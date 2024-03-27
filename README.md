@@ -46,9 +46,25 @@
      <h4>Talk to me! </h4>
   <a href = "mailto:beatrizgomesxx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+  <div>
+     "Lixo na Hora Certa" - Aplicativo Revolucionário para Monitoramento da Gestão de Resíduos
+
+Como um colaborador chave no desenvolvimento do "Lixo na Hora Certa", participei ativamente na criação de uma solução inovadora para otimizar a coleta de resíduos urbanos. Usando Flutter, contribuí para a construção de uma plataforma eficiente que simplifica e melhora a experiência de descarte de resíduos para os usuários.
+
+Principais funcionalidades:
+
+ - Alertas Inteligentes: Desenvolvi recursos de alerta que se sincronizam com o movimento dos caminhões de coleta, garantindo que os usuários sejam notificados no momento exato da chegada do veículo.
+
+- Rastreamento em Tempo Real: Implementei um sistema de rastreamento em tempo real dos veículos de coleta, permitindo que os usuários acompanhem o progresso da coleta de forma precisa e eficaz.
+
+- Gerenciamento Personalizado de Residências: Contribuí para a criação de uma funcionalidade que permite o cadastro de múltiplas residências, possibilitando aos usuários uma gestão personalizada do descarte de resíduos para cada uma delas.
+
+Essas características combinadas oferecem uma solução abrangente e intuitiva para melhorar a gestão de resíduos urbanos, promovendo práticas mais sustentáveis e eficientes na comunidade.
+  </div>
 
 
-![Screenshot 2023-09-20 at 21-00-43 Currículo-Lilian Beatriz pdf](https://github.com/beatrizgomess/beatrizgomess/assets/78573126/f7777f16-45f3-4bdb-9df9-e712007252c3)
+
+
 
 
     
