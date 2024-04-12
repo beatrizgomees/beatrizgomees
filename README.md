@@ -1,20 +1,20 @@
 # Beatriz Gomes
 
-- 💻 Trabalhando/Estudando com Flutter
-- 🌱 Aprendendo: Java, SQL e Flutter
-- 😅 Pronomes: ela/dela
-- 🇧🇷 Brasil
-- 💻 Análise e Desenvolvimento de Sistemas
+- 💻 Studying/Working with flutter
+- 🌱 Learning: Java, SQL and Flutter
+- 😅 Pronouns: she/her
+- 🇧🇷 Brazil
+- 💻 Analysis and systems development
 
 ---
 
-## Sobre Mim
+## About Me
 
-Olá! Sou a Beatriz Gomes, uma desenvolvedora apaixonada por tecnologia e inovação. Atualmente, estou focada em aprimorar minhas habilidades em Flutter e também estou explorando o mundo do desenvolvimento back-end com Java e SQL. Adoro trabalhar em projetos desafiadores e contribuir para soluções que impactam positivamente as pessoas e a sociedade.
+Hello! I'm Beatriz Gomes, a developer passionate about technology and innovation. Currently, I'm focused on improving my skills in Flutter and also exploring the world of back-end development with Java and SQL. I love working on challenging projects and contributing to solutions that positively impact people and society.
 
 ---
 
-## Estatísticas do GitHub
+## GitHub Statistics
 
 <div align="left">
   <a href="https://github.com/beatrizgomess">
@@ -25,10 +25,10 @@ Olá! Sou a Beatriz Gomes, uma desenvolvedora apaixonada por tecnologia e inova�
 
 ---
 
-## Linguagens e Ferramentas
+## Languages and Tools
 
 <div style="display: inline_block">
-  <h4>Linguagens</h4>
+  <h4>Languages</h4>
   
   <img align="center" alt="Bea-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Bea-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
@@ -39,37 +39,37 @@ Olá! Sou a Beatriz Gomes, uma desenvolvedora apaixonada por tecnologia e inova�
 </div>
 
 <div style="display: inline_block"><br>
-  <h4>Ferramentas</h4>
+  <h4>Tools</h4>
   
   <img align="center" alt="Bea-Git" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Bea-gitLab" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"> 
   <img align="center" alt="Bea-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Bea-Intelij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
+  <img align="center" alt="Bea-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
   <img align="center" alt="Bea-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </div>
 
 ---
 
-## Entre em Contato
+## Get in Touch
 
-Gostaria de trocar ideias ou colaborar em um projeto? Fique à vontade para entrar em contato!
+Would you like to exchange ideas or collaborate on a project? Feel free to get in touch!
 
 <a href = "mailto:beatrizgomesxx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---
 
-## Projetos Destacados
+## Featured Projects
 
-### Lixo na Hora Certa
+### Lixo na Hora Certa (Trash at the Right Time)
 
-Como colaboradora-chave no desenvolvimento do "Lixo na Hora Certa", participei ativamente na criação de uma solução inovadora para otimizar a coleta de resíduos urbanos. Usando Flutter, contribuí para a construção de uma plataforma eficiente que simplifica e melhora a experiência de descarte de resíduos para os usuários.
+As a key contributor to the development of "Lixo na Hora Certa," I actively participated in creating an innovative solution to optimize urban waste collection. Using Flutter, I contributed to building an efficient platform that simplifies and enhances the waste disposal experience for users.
 
-#### Principais Funcionalidades:
+#### Key Features:
 
-- **Alertas Inteligentes:** Desenvolvi recursos de alerta que se sincronizam com o movimento dos caminhões de coleta, garantindo que os usuários sejam notificados no momento exato da chegada do veículo.
+- **Smart Alerts:** I developed alert features that synchronize with the movement of collection trucks, ensuring that users are notified at the exact moment of the vehicle's arrival.
 
-- **Rastreamento em Tempo Real:** Implementei um sistema de rastreamento em tempo real dos veículos de coleta, permitindo que os usuários acompanhem o progresso da coleta de forma precisa e eficaz.
+- **Real-time Tracking:** I implemented a real-time tracking system for collection vehicles, allowing users to track the progress of collection accurately and effectively.
 
-- **Gerenciamento Personalizado de Residências:** Contribuí para a criação de uma funcionalidade que permite o cadastro de múltiplas residências, possibilitando aos usuários uma gestão personalizada do descarte de resíduos para cada uma delas.
+- **Customized Residence Management:** I contributed to creating a feature that allows the registration of multiple residences, enabling users to manage waste disposal for each of them personally.
 
-Essas características combinadas oferecem uma solução abrangente e intuitiva para melhorar a gestão de resíduos urbanos, promovendo práticas mais sustentáveis e eficientes na comunidade.
+These combined features offer a comprehensive and intuitive solution to improve urban waste management, promoting more sustainable and efficient practices in the community.
