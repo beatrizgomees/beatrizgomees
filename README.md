@@ -28,20 +28,7 @@ Key Features:
 
 To learn more about the project, visit the [Paudalho City Hall Portal](https://www.paudalho.pe.gov.br/portal/aplicativo-lixo-na-hora-certa-e-lancado-para-androids-em-paudalho/).
 
-## RailBee® Developer and Researcher
 
-### RailBee® · Internship
-- March 2024 - Present (2 months)
-- Recife, Pernambuco, Brazil · Hybrid
-
-#### Technologies Used:
-- Java Multithreading
-- Sockets
-- MQTT
-- VerneMQ
-- PostgreSQL
-- Docker
-- Time series database
 
 
 ## Skills
