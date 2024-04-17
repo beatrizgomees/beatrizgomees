@@ -62,7 +62,7 @@ To learn more about the project, visit the [Paudalho City Hall Portal](https://w
 <div>
 
 
-**Currently Studying**
+## **Currently Studying**
 
 
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)  ![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-333333?style=flat&logo=spring) ![MicroServices](https://img.shields.io/badge/-MicroServices-333333?style=flat&logo=MicroServices) ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android) ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-333333?style=flat) ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
