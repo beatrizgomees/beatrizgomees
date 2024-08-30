@@ -90,7 +90,7 @@ Would you like to exchange ideas or collaborate on a project? Feel free to get i
 
 <div align="left">
   <a href="https://github.com/beatrizgomees">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizgomees&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizgomees&show_icons=true&theme=draculausername=beatrizgomees&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizgomess&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
